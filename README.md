@@ -1,3 +1,24 @@
+![Brown Muted Organic Abstract About Myself at Work Creative Presentation](https://user-images.githubusercontent.com/96483815/180755688-3630c207-0774-42fe-90e5-531baaf92879.jpg)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kelvinpurdom&theme=vue)
+
+#### 🔭 I'm currently working as a Data Science Teacher and Data Analyst freelancer
+
+##### I am coding with the following tools.....
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+![](https://komarev.com/ghpvc/?username=kelvinpurdom&color=orange)
+
+
+
+
+
+
 ## Hi there 👋
 
 <!--
