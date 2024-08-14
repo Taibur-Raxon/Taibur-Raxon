@@ -1,4 +1,4 @@
-![Brown Muted Organic Abstract About Myself at Work Creative Presentation](https://github.com/Taibur-Raxon/Taibur-Raxon/blob/main/Welcome%20to%20Taibur's.png)
+![Brown Muted Organic Abstract About Myself at Work Creative Presentation](https://github.com/Taibur-Raxon/Taibur-Raxon/blob/main/images.jpg)
 
 
 #### 🔭 I'm currently working as a Data Science Teacher and Data Analyst freelancer
